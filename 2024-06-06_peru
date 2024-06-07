@@ -1,660 +1,443 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="General",Latina
 https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8
-
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
-
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 http://cincotv.org:25461/Fermand693/Toapa475/186827
-
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1584179347&_cdn_timestamp=1701923082&_cdn_token=69e21daaa6144e58fdb4d51fb00a933261992fc0
-
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU",LIGA 1 MAX HD
 http://cincotv.org:25461/Fermand693/Toapa475/81983
-
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p)
 https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
-
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
-
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
-
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1584173715&_cdn_timestamp=1701923027&_cdn_token=9b9e3813f5f559e7164873cbdb3a7efcfeb8a1ad
-
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa HD
 https://ntv.pe/salida/nativa.m3u8
-
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://cdn.m3u.cl/logo/1179_Contacto_Deportivo.png" group-title="Deporte",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1539007603&_cdn_timestamp=1701300283&_cdn_token=41f1778c7822c436b8120d301c0fb03da80600f5
-
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="General",USIL TV (720p)
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p)
 https://streamusmptv.ddns.net/live/stream.m3u8
-
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | GOL PERU " tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="TV || PERU",Peru | GOL PERU 
 http://cincotv.org:25461/Fermand693/Toapa475/186821
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | America HD" tvg-logo="http://miarea.vip:8080/images/340038c94c7e83517f02e51ac9178a41.png" group-title="TV || PERU",Peru | America HD
 http://cincotv.org:25461/Fermand693/Toapa475/186822
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | WILLAX HD" tvg-logo="http://miarea.vip:8080/images/b77f4d51b347c625deb751ca1c5ee3b1.png" group-title="TV || PERU",Peru | WILLAX HD
 http://cincotv.org:25461/Fermand693/Toapa475/186824
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Latina HD " tvg-logo="http://daleplay.club:8080/images/4c9848041592d45e0498b9a6e959a8c6.png" group-title="TV || PERU",Peru | Latina HD 
 http://cincotv.org:25461/Fermand693/Toapa475/186825
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | ATV SD" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png" group-title="TV || PERU",Peru | ATV SD
 http://cincotv.org:25461/Fermand693/Toapa475/186826
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Panamericana HD" tvg-logo="http://daleplay.club:8080/images/8a39b13bed3af21938c18fad1972f31b.png" group-title="TV || PERU",Peru | Panamericana HD
 http://cincotv.org:25461/Fermand693/Toapa475/186827
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | IPE" tvg-logo="http://daleplay.club:8080/images/6bd920df0cfbca4dde95099b4e81c5cc.png" group-title="TV || PERU",Peru | IPE
 http://cincotv.org:25461/Fermand693/Toapa475/186828
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Peru Noticias" tvg-logo="https://i.ibb.co/5jTPW3C/TV-Per-Noticias-2019-logo.png" group-title="TV || PERU",Peru | Peru Noticias
 http://cincotv.org:25461/Fermand693/Toapa475/186829
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | RPP" tvg-logo="https://i.ibb.co/Fbfy062/rpp.png" group-title="TV || PERU",Peru | RPP
 http://cincotv.org:25461/Fermand693/Toapa475/186830
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | Tv Peru" tvg-logo="https://i.ibb.co/TWmHj8D/tvperu.png" group-title="TV || PERU",Peru | Tv Peru
 http://cincotv.org:25461/Fermand693/Toapa475/186831
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | MOVISTAR DEPORTES" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="TV || PERU",Peru | MOVISTAR DEPORTES
 http://cincotv.org:25461/Fermand693/Toapa475/186832
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-300x93.png" group-title="TV || PERU",Peru | NATIVA
 http://cincotv.org:25461/Fermand693/Toapa475/161958
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | EXITOSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV || PERU",Peru | EXITOSA
 http://cincotv.org:25461/Fermand693/Toapa475/139709
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV || PERU",Peru | ATV+
 http://cincotv.org:25461/Fermand693/Toapa475/102082
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 HD" tvg-logo="https://i.ibb.co/4t5WTM6/Liga-1.png" group-title="TV || PERU",Peru | LIGA 1 HD
 http://cincotv.org:25461/Fermand693/Toapa475/81983
-
 #EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU",Peru | LIGA 1 MAX HD
 http://cincotv.org:25461/Fermand693/Toapa475/81984
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="TV || DEPORTES EUROPA",DAZN LA LIGA HD
 http://cincotv.org:25461/Fermand693/Toapa475/89730
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ESTRELLA TV HD
 http://cincotv.org:25461/Fermand693/Toapa475/23729
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV || ENTRETENIMIENTO",ENTRE | NBC UNIVERSO HD
 http://cincotv.org:25461/Fermand693/Toapa475/23730
-
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (MEX)
 http://cincotv.org:25461/Fermand693/Toapa475/23757
-
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="PREMIUM | UNIVERSAL REALITY" tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL REALITY
 http://cincotv.org:25461/Fermand693/Toapa475/23850
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | UNA FAMILIA DE DIEZ" tvg-logo="" group-title="TV || 24/7 SERIES",UNA FAMILIA DE DIEZ
 http://cincotv.org:25461/Fermand693/Toapa475/23852
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | SCOOBY DOO" tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV || 24/7 INFANTILES",SCOOBY DOO
 http://cincotv.org:25461/Fermand693/Toapa475/23854
-
 #EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV || INFANTIL",BOING KIDS HD
 http://cincotv.org:25461/Fermand693/Toapa475/23857
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV || 24/7 SERIES",ALF
 http://cincotv.org:25461/Fermand693/Toapa475/23940
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV || 24/7 INFANTILES",LA CASA DE MICKEY MOUSE
 http://cincotv.org:25461/Fermand693/Toapa475/23964
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DEL MEDIO" tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV || 24/7 SERIES", MALCOLM EL DEL MEDIO
 http://cincotv.org:25461/Fermand693/Toapa475/23974
-
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV || CINE Y SERIES",DE PELICULA
 http://cincotv.org:25461/Fermand693/Toapa475/24040
-
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI" tvg-logo="https://canal26.org/wp-content/uploads/2021/08/logo_hd.fw_.png" group-title="TV || EL SALVADOR",EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI
 http://cincotv.org:25461/Fermand693/Toapa475/24192
-
 #EXTINF:-1 tvg-id="0838" tvg-name="PREMIUM | GOLDEN " tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN 
 http://cincotv.org:25461/Fermand693/Toapa475/24301
-
 #EXTINF:-1 tvg-id="I501.10240.zap2it.com" tvg-name="PREMIUM | HBO HD (LATINO)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (LAT)
 http://cincotv.org:25461/Fermand693/Toapa475/24302
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY PIXAR 1 HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE DISNEY PIXAR 1 HD
 http://cincotv.org:25461/Fermand693/Toapa475/24490
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL STUDIO HD
 http://cincotv.org:25461/Fermand693/Toapa475/24495
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL ANIMADO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL ANIMADO HD
 http://cincotv.org:25461/Fermand693/Toapa475/24496
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="TV || 24/7 INFANTILES",24/7 | CHESPIRITO
 http://cincotv.org:25461/Fermand693/Toapa475/25154
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PAW PATROL" tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV || 24/7 INFANTILES",24/7 | PAW PATROL
 http://cincotv.org:25461/Fermand693/Toapa475/25155
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | 2 PERROS TONTOS" tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="TV || 24/7 INFANTILES",24/7 | 2 PERROS TONTOS
 http://cincotv.org:25461/Fermand693/Toapa475/25156
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PAJARO LOCO" tvg-logo="https://i.ibb.co/X7k2bsj/PAJARO.png" group-title="TV || 24/7 INFANTILES",24/7 | EL PAJARO LOCO
 http://cincotv.org:25461/Fermand693/Toapa475/25158
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA MONSTER" tvg-logo="https://i.ibb.co/v1NCJwW/MONSTER.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA MONSTER
 http://cincotv.org:25461/Fermand693/Toapa475/25159
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV || 24/7 INFANTILES",24/7 | LOS SUPER CAMPEONES
 http://cincotv.org:25461/Fermand693/Toapa475/25160
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que callamos las mujeres" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4a59809/2147483647/strip/true/crop/3840x2160+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fff%2F75%2F3ba90b0f25ff309d3288d362860d%2Flo-que-callamos-1884415.png" group-title="TV || 24/7 NOVELAS",24/7 Lo que callamos las mujeres
 http://cincotv.org:25461/Fermand693/Toapa475/25161
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV || 24/7 SERIES",24/7 | VIVOS
 http://cincotv.org:25461/Fermand693/Toapa475/25163
-
 #EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="EVENTOS PPV (solo eventos)",UFC FHD
 http://cincotv.org:25461/Fermand693/Toapa475/25184
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA PELUCHE
 http://cincotv.org:25461/Fermand693/Toapa475/25195
-
 #EXTINF:-1 tvg-id="I239.16108.zap2it.com" tvg-name="SUNDANCE" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV || CINE Y SERIES",SUNDANCE
 http://cincotv.org:25461/Fermand693/Toapa475/25196
-
 #EXTINF:-1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/KxKcG07/Discovery-Familia.png" group-title="TV || DOCUMENTALES",DISCOVERY FAMILIA
 http://cincotv.org:25461/Fermand693/Toapa475/25197
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | RT Noticias
 http://cincotv.org:25461/Fermand693/Toapa475/25513
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CGTN (esp)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | CGTN (esp)
 http://cincotv.org:25461/Fermand693/Toapa475/25514
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LAS AVENTURAS DE LADY BUG" tvg-logo="https://i.ibb.co/9VqTRbJ/pngegg-4.png" group-title="TV || 24/7 INFANTILES",24/7 | LAS AVENTURAS DE LADY BUG
 http://cincotv.org:25461/Fermand693/Toapa475/25633
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO" tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="TV || 24/7 SERIES",24/7 | CASO CERRADO
 http://cincotv.org:25461/Fermand693/Toapa475/25636
-
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="PREMIUM | UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL TV
 http://cincotv.org:25461/Fermand693/Toapa475/25795
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rocky_Logo.svg/1200px-Rocky_Logo.svg.png" group-title="TV || 24/7 CINE",24/7 ROCKY
 http://cincotv.org:25461/Fermand693/Toapa475/26339
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | TELEFORMULA" tvg-logo="https://i.ibb.co/dMLcSz6/unnamed.png" group-title=" TV || NOTICIAS",NOTICIAS | TELEFORMULA
 http://cincotv.org:25461/Fermand693/Toapa475/27618
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV || 24/7 SERIES",24/7 | CANTINFLAS
 http://cincotv.org:25461/Fermand693/Toapa475/28069
-
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLENOVELAS HD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS HD
 http://cincotv.org:25461/Fermand693/Toapa475/28420
-
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVMAX " tvg-logo="http://miarea.vip:8080/images/32b5e0e8fdf88d376f6a00602bd41cb8.png" group-title="TV || PANAMA",PANAMA | TVMAX 
 http://cincotv.org:25461/Fermand693/Toapa475/53475
-
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-pa.png" group-title="TV || PANAMA",PANAMA | TVN
 http://cincotv.org:25461/Fermand693/Toapa475/53476
-
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA FC" tvg-logo="http://miarea.vip:8080/images/90ad2c9d87364c680b5afcec2a9977ff.png" group-title="TV || PANAMA",PANAMA| CABLE ONDA FC
 http://cincotv.org:25461/Fermand693/Toapa475/53477
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | KANAL D DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="TV || ENTRETENIMIENTO",ENTRE | KANAL D DRAMA
 http://cincotv.org:25461/Fermand693/Toapa475/66150
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION | ALIENTO VISION HD" tvg-logo="https://i.ibb.co/thtKkMS/ALIENTO-VISION.jpg" group-title="TV || RELIGION",RELIGION | ALIENTO VISION HD
 http://cincotv.org:25461/Fermand693/Toapa475/66408
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION I CBN EN ESPAÑOL HD" tvg-logo="https://i.ibb.co/ykrKFhh/CBN.jpg" group-title="TV || RELIGION",RELIGION I CBN EN ESPAÑOL HD
 http://cincotv.org:25461/Fermand693/Toapa475/66409
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ASOMAVISION HD" tvg-logo="https://i.ibb.co/Ypf6Qd9/ASOMAVISION.jpg" group-title="TV || RELIGION",RELIGION  | ASOMAVISION HD
 http://cincotv.org:25461/Fermand693/Toapa475/66415
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION | CANAL ISB HD" tvg-logo="https://i.ibb.co/vq0nxRB/ISB.jpg" group-title="TV || RELIGION",RELIGION | CANAL ISB HD
 http://cincotv.org:25461/Fermand693/Toapa475/66417
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTIANA TV HD" tvg-logo="https://i.ibb.co/tLbMGY8/CTN.jpg" group-title="TV || RELIGION",RELIGION | CRISTIANA TV HD
 http://cincotv.org:25461/Fermand693/Toapa475/66418
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION | NUEVO TIEMPO HD" tvg-logo="https://i.ibb.co/SnrQTwQ/nuevo-tiempo.jpg" group-title="TV || RELIGION",RELIGION | NUEVO TIEMPO HD
 http://cincotv.org:25461/Fermand693/Toapa475/66423
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION | TELE FAMILIA HD" tvg-logo="https://i.ibb.co/mypGL1r/telefamilia.jpg" group-title="TV || RELIGION",RELIGION | TELE FAMILIA HD
 http://cincotv.org:25461/Fermand693/Toapa475/66429
-
 #EXTINF:-1 tvg-id="" tvg-name="RELIGION  | TV UNIVERSAL HD" tvg-logo="https://i.ibb.co/ThQcbnn/universal.jpg" group-title="TV || RELIGION",RELIGION  | TV UNIVERSAL HD
 http://cincotv.org:25461/Fermand693/Toapa475/66430
-
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 3
 http://cincotv.org:25461/Fermand693/Toapa475/69249
-
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 2
 http://cincotv.org:25461/Fermand693/Toapa475/69250
-
 #EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="EL SALVADOR | TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="TV || EL SALVADOR",EL SALVADOR | TIGO SPORTS
 http://cincotv.org:25461/Fermand693/Toapa475/69441
-
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV || ESPAÑA",ESPAÑA | ATRESERIES HD
 http://cincotv.org:25461/Fermand693/Toapa475/74039
-
 #EXTINF:-1 tvg-id="Canal19.sv" tvg-name="EL SALVADOR | CANAL 19" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 19
 http://cincotv.org:25461/Fermand693/Toapa475/74114
-
 #EXTINF:-1 tvg-id="" tvg-name="Cocina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",Cocina TV
 http://cincotv.org:25461/Fermand693/Toapa475/74696
-
 #EXTINF:-1 tvg-id="" tvg-name="VEVO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Latino
 http://cincotv.org:25461/Fermand693/Toapa475/74720
-
 #EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaeton y Trap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Reggaeton y Trap
 http://cincotv.org:25461/Fermand693/Toapa475/74721
-
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",TUDN
 http://cincotv.org:25461/Fermand693/Toapa475/74741
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 1
 http://cincotv.org:25461/Fermand693/Toapa475/75171
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 2
 http://cincotv.org:25461/Fermand693/Toapa475/75173
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 3
 http://cincotv.org:25461/Fermand693/Toapa475/75174
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 4
 http://cincotv.org:25461/Fermand693/Toapa475/75175
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 5
 http://cincotv.org:25461/Fermand693/Toapa475/75177
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 6
 http://cincotv.org:25461/Fermand693/Toapa475/75178
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2fba4f552644ce9d592c588a206fdb1c.png" group-title="EVENTOS PPV (solo eventos)",ESPN PREMIUN HD ARGENTINA
 http://cincotv.org:25461/Fermand693/Toapa475/89731
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="TV || ARGENTINA",Arg | TN NOTICIAS
 http://cincotv.org:25461/Fermand693/Toapa475/90963
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | C5N" tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="TV || ARGENTINA",Arg | C5N
 http://cincotv.org:25461/Fermand693/Toapa475/90964
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | LA NACION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="TV || ARGENTINA",Arg | LA NACION+
 http://cincotv.org:25461/Fermand693/Toapa475/90965
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | A24 HD" tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="TV || ARGENTINA",Arg | A24 HD
 http://cincotv.org:25461/Fermand693/Toapa475/90966
-
 #EXTINF:-1 tvg-id="" tvg-name="HOND| HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="TV || HONDURAS",HOND| HCH
 http://cincotv.org:25461/Fermand693/Toapa475/92859
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/BTsG7rZ/AEROPUERTO.png" group-title="TV || 24/7 SERIES",24/7 | ALERTA AEROPUERTO
 http://cincotv.org:25461/Fermand693/Toapa475/101570
-
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VALLENATO INTERNACIONAL" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="TV || MUSICA",MUSICA ll VALLENATO INTERNACIONAL
 http://cincotv.org:25461/Fermand693/Toapa475/101616
-
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VEVO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll VEVO LATINO
 http://cincotv.org:25461/Fermand693/Toapa475/102104
-
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA ll REGGAETON Y TRAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll REGGAETON Y TRAP
 http://cincotv.org:25461/Fermand693/Toapa475/102105
-
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TVO 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="TV || EL SALVADOR",EL SALVADOR | TVO 23
 http://cincotv.org:25461/Fermand693/Toapa475/102106
-
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TELEVISION LEGISLATIVA" tvg-logo="https://i.ibb.co/HCNMXKz/asamblea.png" group-title="TV || EL SALVADOR",EL SALVADOR | TELEVISION LEGISLATIVA
 http://cincotv.org:25461/Fermand693/Toapa475/102107
-
 #EXTINF:-1 tvg-id="Energy" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA",ESPAÑA | ENERGY HD
 http://cincotv.org:25461/Fermand693/Toapa475/110480
-
 #EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TV || MEXICO",MX| LAS ESTRELLAS MX
 http://cincotv.org:25461/Fermand693/Toapa475/110791
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | UNIVISION" tvg-logo="https://lavibra.com/wp-content/uploads/2022/04/univision-noticias-logo.png" group-title=" TV || NOTICIAS",NOTICIAS | UNIVISION
 http://cincotv.org:25461/Fermand693/Toapa475/110792
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title=" TV || NOTICIAS",NOTICIAS | ADN 40
 http://cincotv.org:25461/Fermand693/Toapa475/110831
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN XTRA" tvg-logo="https://i.ibb.co/KsNBdwy/rcn-xtra-2.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN XTRA
 http://cincotv.org:25461/Fermand693/Toapa475/110832
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN MAS+" tvg-logo="https://i.ibb.co/B3R4kf4/rcn-mas-1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN MAS+
 http://cincotv.org:25461/Fermand693/Toapa475/110833
-
 #EXTINF:-1 tvg-id="" tvg-name="C. Rica - Ticavison" tvg-logo="https://i.ibb.co/Fh2Q85x/TICA-VISION.png" group-title="TV || COSTA RICA",C. Rica - Ticavison
 http://cincotv.org:25461/Fermand693/Toapa475/110834
-
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 27" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 27
 http://cincotv.org:25461/Fermand693/Toapa475/112568
-
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | ESQUIPULAS TV" tvg-logo="https://esquipulastv.com/wp-content/uploads/2020/08/Logo-ETV-FINAL-1.png" group-title="TV ||  GUATEMALA",GUATEMALA | ESQUIPULAS TV
 http://cincotv.org:25461/Fermand693/Toapa475/112569
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal_7_Guatemala_2022.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 7
 http://cincotv.org:25461/Fermand693/Toapa475/112571
-
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN23" tvg-logo="https://i.ibb.co/PrgK87Z/TN23.png" group-title="TV ||  GUATEMALA",GUATEMALA | TN23
 http://cincotv.org:25461/Fermand693/Toapa475/112572
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="TV || ARGENTINA",Arg | EL NUEVE
 http://cincotv.org:25461/Fermand693/Toapa475/112573
-
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | UCHILE TV" tvg-logo="https://uchile.cl/dam/jcr:20e3bf2d-85b5-4698-bf35-65296717c568/UCHILE-TV.png" group-title="TV || CHILE",CHILE | UCHILE TV
 http://cincotv.org:25461/Fermand693/Toapa475/112574
-
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/UCV_Logo.png" group-title="TV || CHILE",CHILE | UCV
 http://cincotv.org:25461/Fermand693/Toapa475/112575
-
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | UESTV" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="TV || CHILE",CHILE | UESTV
 http://cincotv.org:25461/Fermand693/Toapa475/112576
-
 #EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="TV || COSTA RICA",C. Rica - Canal 2
 http://cincotv.org:25461/Fermand693/Toapa475/112577
-
 #EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="TV || COSTA RICA",C. Rica - Canal 8
 http://cincotv.org:25461/Fermand693/Toapa475/112578
-
 #EXTINF:-1 tvg-id="" tvg-name="C. Rica - Telesistema" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1.png" group-title="TV || COSTA RICA",C. Rica - Telesistema
 http://cincotv.org:25461/Fermand693/Toapa475/112579
-
 #EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 1" tvg-logo="https://www.lateja.cr/resizer/kpPE6RkJefPYNY4yxYoY8xT3Y8g=/400x225/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="TV || COSTA RICA",C. Rica - Canal 1
 http://cincotv.org:25461/Fermand693/Toapa475/112580
-
 #EXTINF:-1 tvg-id="" tvg-name="HOND| AZA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yIZFNQjKAP9mUeUxULy0Iiie8pWObcdhY9enQvpQ_fODPhiD3vVIQqQKQ-VNe4gmSN3MU2BLKUzh0snIvT6p9aOIAUHKBtSrIhYqtMXAgDQO5O_aiPT4hJQtEPhdXIR-JlvFxnj2GorAA24Ib-XNE0h0XIYfyG5rCC3nPNUl4jC0ocng8MqEFj__/s540/aza-tv-honduras-logoroku.png" group-title="TV || HONDURAS",HOND| AZA TV
 http://cincotv.org:25461/Fermand693/Toapa475/112925
-
 #EXTINF:-1 tvg-id="" tvg-name="HOND| TELEVISION METROPOLIS" tvg-logo="http://www.comunicacionesmetropolis.com/assets/images/image8o-1-180x86.png" group-title="TV || HONDURAS",HOND| TELEVISION METROPOLIS
 http://cincotv.org:25461/Fermand693/Toapa475/112927
-
 #EXTINF:-1 tvg-id="" tvg-name="NIcaragua | WTV CANAL 20" tvg-logo="https://i.ibb.co/BT3fntJ/WTW.png" group-title="TV || NICARAGUA",NIcaragua | WTV CANAL 20
 http://cincotv.org:25461/Fermand693/Toapa475/112928
-
 #EXTINF:-1 tvg-id="" tvg-name="NIcaragua | CANAL 9" tvg-logo="https://i.ibb.co/MZBV6T3/9.png" group-title="TV || NICARAGUA",NIcaragua | CANAL 9
 http://cincotv.org:25461/Fermand693/Toapa475/112929
-
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV || EL SALVADOR",EL SALVADOR | WOW TV
 http://cincotv.org:25461/Fermand693/Toapa475/117970
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="TV || DEPORTES EUROPA",DAZN F1
 http://cincotv.org:25461/Fermand693/Toapa475/120317
-
 #EXTINF:-1 tvg-id="594clarovideo.cl" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="TV || CINE Y SERIES",MULTIPREMIER
 http://cincotv.org:25461/Fermand693/Toapa475/126323
-
 #EXTINF:-1 tvg-id="" tvg-name="I SAT CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="TV || CINE Y SERIES",I SAT CHANNEL HD
 http://cincotv.org:25461/Fermand693/Toapa475/126324
-
 #EXTINF:-1 tvg-id="" tvg-name="MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="TV || CINE Y SERIES",MOREMAX FHD
 http://cincotv.org:25461/Fermand693/Toapa475/126327
-
 #EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="TV || CINE Y SERIES",MULTICINEMA HD
 http://cincotv.org:25461/Fermand693/Toapa475/126330
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY MOVIES
 http://cincotv.org:25461/Fermand693/Toapa475/126339
-
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME NETWORK HD LATINO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="TV || CINE Y SERIES",MY TIME NETWORK HD LATINO
 http://cincotv.org:25461/Fermand693/Toapa475/139692
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 1 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 1 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139693
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 2 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 2 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139694
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 3 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 3 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139695
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 4 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 4 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139696
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 5 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 5 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139697
-
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 6 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 6 HD
 http://cincotv.org:25461/Fermand693/Toapa475/139698
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA FAMILIA
 http://cincotv.org:25461/Fermand693/Toapa475/139699
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA COMEDIA
 http://cincotv.org:25461/Fermand693/Toapa475/139700
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA TERROR
 http://cincotv.org:25461/Fermand693/Toapa475/139701
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA LEGO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="TV || 24/7 CINE",CINEMA LEGO MOVIES
 http://cincotv.org:25461/Fermand693/Toapa475/139702
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV || 24/7 SERIES",24/7 | THE MANDALORIAN
 http://cincotv.org:25461/Fermand693/Toapa475/139703
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/yYv6r6Jm/JUEGO.png" group-title="TV || 24/7 SERIES",24/7 | JUEGO DE TRONOS
 http://cincotv.org:25461/Fermand693/Toapa475/139704
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PHINEAS Y FERB" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Phineas_e_Ferb.png" group-title="TV || 24/7 INFANTILES",24/7 | PHINEAS Y FERB
 http://cincotv.org:25461/Fermand693/Toapa475/139705
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV || 24/7 NOVELAS",24/7 La rosa de Guadalupe
 http://cincotv.org:25461/Fermand693/Toapa475/139706
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV || 24/7 NOVELAS",24/7 El Chapo
 http://cincotv.org:25461/Fermand693/Toapa475/139707
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRA" tvg-logo="https://i.ibb.co/wcn3sFK/PICAPIEDRA.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS PICAPIEDRA
 http://cincotv.org:25461/Fermand693/Toapa475/139708
-
 #EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://i.ibb.co/7WxWMNS/axn-movie.png" group-title="TV || CINE Y SERIES",AXN MOVIES
 http://cincotv.org:25461/Fermand693/Toapa475/141568
-
 #EXTINF:-1 tvg-id="" tvg-name="TEENNICK HD" tvg-logo="https://i.ibb.co/L18T6xv/teennick-logo-concept-2023-by-logofan100-dg1uxmm.png" group-title="TV || INFANTIL",TEENNICK HD
 http://cincotv.org:25461/Fermand693/Toapa475/146664
-
 #EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
 http://cincotv.org:25461/Fermand693/Toapa475/153830
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION LOS ANGELES
 http://cincotv.org:25461/Fermand693/Toapa475/162346
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/0049d39433c2d9959de3767edd8dd31b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO LOS ANGELES
 http://cincotv.org:25461/Fermand693/Toapa475/162347
-
 #EXTINF:-1 tvg-id="" tvg-name="VEN | IVC" tvg-logo="http://fanc.tmsimg.com/assets/s97002_ll_h3_aa.png" group-title="TV || VENEZUELA",VEN | IVC
 http://cincotv.org:25461/Fermand693/Toapa475/169154
-
 #EXTINF:-1 tvg-id="" tvg-name="VEN | GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="TV || VENEZUELA",VEN | GLOBOVISION
 http://cincotv.org:25461/Fermand693/Toapa475/169155
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/2560px-TV_Azteca_Cinema_logo.svg.png" group-title="TV || CINE Y SERIES",CINEMA
 http://cincotv.org:25461/Fermand693/Toapa475/169185
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El final del paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" group-title="TV || 24/7 NOVELAS",24/7 El final del paraíso
 http://cincotv.org:25461/Fermand693/Toapa475/169282
-
 #EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Globo_logo_1975.svg/2172px-Globo_logo_1975.svg.png" group-title="TV || BRASIL",Globo Premium
 http://cincotv.org:25461/Fermand693/Toapa475/169766
-
 #EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment HD" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV || DOCUMENTALES",E! Entertaiment HD
 http://cincotv.org:25461/Fermand693/Toapa475/170735
-
 #EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA",COL | SEÑAL COLOMBIA
 http://cincotv.org:25461/Fermand693/Toapa475/171153
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DORAEMON" tvg-logo="https://www.pngmart.com/files/5/Doraemon-PNG-Pic.png" group-title="TV || 24/7 INFANTILES",24/7 | DORAEMON
 http://cincotv.org:25461/Fermand693/Toapa475/171237
-
 #EXTINF:-1 tvg-id="" tvg-name="XTREMA RETRO SERIES" tvg-logo="https://i.ibb.co/XX88Y9Q/RETRO.png" group-title="TV || CINE Y SERIES",XTREMA RETRO SERIES
 http://cincotv.org:25461/Fermand693/Toapa475/172175
 #EXTINF:-1 tvg-id="" tvg-name="PLANETATV FAMILY" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="TV || CINE Y SERIES",PLANETATV FAMILY
 http://cincotv.org:25461/Fermand693/Toapa475/172891
 #EXTINF:-1 tvg-id="" tvg-name="PLANETATV MOVIE" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="TV || CINE Y SERIES",PLANETATV MOVIE
 http://cincotv.org:25461/Fermand693/Toapa475/173266
-
 #EXTINF:-1 tvg-id="" tvg-name="VEN | VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="TV || VENEZUELA",VEN | VE PLUS
 http://cincotv.org:25461/Fermand693/Toapa475/173270
-
 #EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL" tvg-logo="https://i.ibb.co/6rHqQ5j/CANAL-INFANTIL.png" group-title="TV || INFANTIL",CANAL INFANTIL
 http://cincotv.org:25461/Fermand693/Toapa475/173276
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="TV || CINE Y SERIES",CINE PREMIUM
 http://cincotv.org:25461/Fermand693/Toapa475/173277
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="TV || CINE Y SERIES",CINE FAMILIAR
 http://cincotv.org:25461/Fermand693/Toapa475/173278
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="TV || CINE Y SERIES",CINE HISPANO
 http://cincotv.org:25461/Fermand693/Toapa475/173279
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || 24/7 CINE",CINE NETFLIX 1
 http://cincotv.org:25461/Fermand693/Toapa475/176198
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || 24/7 CINE",CINE NETFLIX 2
 http://cincotv.org:25461/Fermand693/Toapa475/176199
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || 24/7 CINE",CINE NETFLIX 3
 http://cincotv.org:25461/Fermand693/Toapa475/176200
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || 24/7 CINE",CINE NETFLIX 4
 http://cincotv.org:25461/Fermand693/Toapa475/176201
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || 24/7 CINE",CINE NETFLIX 5
 http://cincotv.org:25461/Fermand693/Toapa475/176202
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || 24/7 CINE",CINE NETFLIX 6
 http://cincotv.org:25461/Fermand693/Toapa475/17620
 3
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || 24/7 CINE",CINE NETFLIX 7
 http://cincotv.org:25461/Fermand693/Toapa475/176204
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 8
 http://cincotv.org:25461/Fermand693/Toapa475/176205
-
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA ll HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="TV || MUSICA",MUSICA ll HTV
 http://cincotv.org:25461/Fermand693/Toapa475/176994
-
 #EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="TV || CINE Y SERIES",EPIX WEST HD
 http://cincotv.org:25461/Fermand693/Toapa475/180752
-
 #EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="TV || CINE Y SERIES",ACTION MAX 
 http://cincotv.org:25461/Fermand693/Toapa475/180753
-
 #EXTINF:-1 tvg-id="" tvg-name="Arg | GENTV DIGITAL" tvg-logo="https://i.ibb.co/LdtcWs1/Gentv.png" group-title="TV || ARGENTINA",Arg | GENTV DIGITAL
 http://cincotv.org:25461/Fermand693/Toapa475/180814
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV || 24/7 CINE",24/7 ZOMBIE
 http://cincotv.org:25461/Fermand693/Toapa475/181926
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 TERROR" tvg-logo="https://i.postimg.cc/kgSxRNQ4/tERROR.png" group-title="TV || 24/7 CINE",24/7 TERROR
 http://cincotv.org:25461/Fermand693/Toapa475/181927
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV || 24/7 CINE",24/7 THE WALKING DEAD
 http://cincotv.org:25461/Fermand693/Toapa475/181928
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV || 24/7 CINE",24/7 SCREAM
 http://cincotv.org:25461/Fermand693/Toapa475/181929
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SAGAS" tvg-logo="https://i.postimg.cc/2jZqjjrd/SAGAS.png" group-title="TV || 24/7 CINE",24/7 SAGAS
 http://cincotv.org:25461/Fermand693/Toapa475/181930
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV || 24/7 CINE",24/7 ROMANCE
 http://cincotv.org:25461/Fermand693/Toapa475/181931
-
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV
 http://cincotv.org:25461/Fermand693/Toapa475/181933
-
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 2
 http://cincotv.org:25461/Fermand693/Toapa475/181934
-
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 3
 http://cincotv.org:25461/Fermand693/Toapa475/181935
-
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 4
 http://cincotv.org:25461/Fermand693/Toapa475/181936
-
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 5
 http://cincotv.org:25461/Fermand693/Toapa475/181937
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 1
 http://cincotv.org:25461/Fermand693/Toapa475/181939
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 2
 http://cincotv.org:25461/Fermand693/Toapa475/181940
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 3
 http://cincotv.org:25461/Fermand693/Toapa475/181941
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 4
 http://cincotv.org:25461/Fermand693/Toapa475/181942
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 5
 http://cincotv.org:25461/Fermand693/Toapa475/181943
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV || 24/7 SERIES",24/7 | PEAKY BLINDERS
 http://cincotv.org:25461/Fermand693/Toapa475/182136
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | SONIC X" tvg-logo="https://info.sonicretro.org/images/b/b7/Sonicx.png" group-title="TV || 24/7 INFANTILES",24/7 | SONIC X
 http://cincotv.org:25461/Fermand693/Toapa475/182137
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DARK" tvg-logo="https://dark.netflix.io/share/global.png" group-title="TV || 24/7 SERIES",24/7 | DARK
 http://cincotv.org:25461/Fermand693/Toapa475/182138
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV || 24/7 SERIES",24/7 | MERLIN
 http://cincotv.org:25461/Fermand693/Toapa475/182139
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CUATRO" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="TV || ESPAÑA",ESPAÑA | CUATRO
 http://cincotv.org:25461/Fermand693/Toapa475/182368
-
 #EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ESPAÑA | CANAL HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL HOLLYWOOD
 http://cincotv.org:25461/Fermand693/Toapa475/182369
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PARAMOUNT NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s87049_ll_h3_aa.png" group-title="TV || ESPAÑA",ESPAÑA | PARAMOUNT NETWORK
 http://cincotv.org:25461/Fermand693/Toapa475/182370
 #EXTINF:-1 tvg-id="" tvg-name="VEN | TELE TUYA" tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="TV || VENEZUELA",VEN | TELE TUYA
@@ -957,7 +740,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/186818
 http://cincotv.org:25461/Fermand693/Toapa475/186819
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="MX| EL NUEVE HD" tvg-logo="http://miarea.vip:8080/images/f39000bb0ac7d3696fa6a302c6feec8e.png" group-title="TV || MEXICO",MX| EL NUEVE HD
 http://cincotv.org:25461/Fermand693/Toapa475/186820
-
 #EXTINF:-1 tvg-id="" tvg-name="URU| VTV LOCAL FHD" tvg-logo="http://miarea.vip:8080/images/b83e0a7c39a2269a35077ef20174a3dc.png" group-title="TV || URUGUAY",URU| VTV LOCAL FHD
 http://cincotv.org:25461/Fermand693/Toapa475/186833
 #EXTINF:-1 tvg-id="" tvg-name="URU| VTV PLUS HD*" tvg-logo="http://miarea.vip:8080/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV || URUGUAY",URU| VTV PLUS HD*
@@ -1240,7 +1022,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/187030
 http://cincotv.org:25461/Fermand693/Toapa475/187034
 #EXTINF:-1 tvg-id="0" tvg-name="Radio y Televisión Martí " tvg-logo="https://i.ibb.co/5v9FN41/marti.png" group-title="TV || CUBA",Radio y Televisión Martí 
 http://cincotv.org:25461/Fermand693/Toapa475/187035
-
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (QUITO)" tvg-logo="https://americaestereo.com/images/logotipo%20america%20estereo%204.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (QUITO)
 http://cincotv.org:25461/Fermand693/Toapa475/187081
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (GUAYAQUIL) " tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (GUAYAQUIL) 
@@ -1292,417 +1073,279 @@ http://cincotv.org:25461/Fermand693/Toapa475/226543
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Macho HD" tvg-logo="http://miarea.vip:8080/images/aedd7b3ebaebbf3dcd79734685a37385.png" group-title="TV || CINE Y SERIES",Ultra Macho HD
 http://cincotv.org:25461/Fermand693/Toapa475/226544
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Mex HD" tvg-logo="http://miarea.vip:8080/images/a6085afb09acfeaf1eeb3813b0c9e89f.png" group-title="TV || CINE Y SERIES",Ultra Mex HD
-
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
-
 #EXTINF:-1 tvg-id="Tele Amazonas" tvg-logo="https://teleamazonas.pe/wp-content/uploads/2023/09/logo2-teleamazonas.png" group-title="Musica",Tele Amazonas (480p)
 https://live.tvcontrolcp.com:1936/8054/8054/chunklist_w1473882810.m3u8
-
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p)
 https://tvdatta.com:3602/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
-
 #EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (SD)
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
-
 #EXTINF:-1 tvg-id="viaaltomayotv.com" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="General",VIA Alto Mayo (HD)
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (SD)
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV (Chosica) (614p)
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Series Koreanas",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2 TV (Lima) (720p) 
 https://servilive.com:3114/live/liveulive.m3u8
-
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p)
 https://live.obslivestream.com/controversiatv/index.m3u8
-
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p)
 https://live.obslivestream.com/crtvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV (Cajamarca) (720p)
 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
-
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p)
 https://cloud.live.opencaster.com/multi_web/play_480.m3u8
-
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p)
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1177220520.m3u8
-
 #EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (576p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
-
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Sports",Esports Max (720p)
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream (clasicos ingles) (720p)
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (720p)
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
 #EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV (720p)
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="Undefined",Galicia TV América (720p)
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-
 #EXTINF:-1 tvg-id="cxtvenvivo.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp"Undefined",Garage TV (480p)
 https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p)
 https://live.obslivestream.com/geniostvmux/index.m3u8
-
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV (480p)
 https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=190.42.31.131&token=abe3aaba2b2090138d33b2daf5f7a41b6cbe7497-60dfbdde2eed4c9b4012fc83d6a0fc2d-1700436144-1700425344
-
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live3.presstv.ir/hispantv/07.m3u8
-
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="Undefined",Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="General",Intuitiva TV (720p)
 https://video2.lhdserver.es/cableperu/live.m3u8
-
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Undefined",Impacto Televisión (360p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19 (720p)
 https://servilive.com:3028/live/jntv19live.m3u8
-
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV (720p)
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional (720p)
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
-
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (480p)
 #https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa)
 https://hls.servidor.stream/storage/megatv.m3u8
-
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p)
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (Lamas) (720p)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-
 #EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1 (320p)
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2 (320p)
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV (Satipo)
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png" group-title="General",N Mas tv (Mexico) (540p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
-
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://pbs.twimg.com/profile_images/1648471981946281984/wnraAOX6_400x400.jpg" group-title="General",N Mas Media TV (Mexico) (540p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
-
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV
 https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="OKTeVe.pe" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="General",OK TeVe (Yurimaguas) (720p)
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p)
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/onda-digital-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="General",Onda Digital Tv (480p)
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p)
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Religious",Pax TV
 http://vivo.paxtvmovil.org/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
-
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://static.platzi.com/static/images/footer/logo.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
 #EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15 (720p)
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión (Cuzco) (720p)
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p)
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-
 #EXTINF:-1 tvg-id="RadioTVTendencias.pe" tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="Music",Radio TV Tendencias
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-
 #EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka (Abancay) (1080p)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Undefined",Región TV (Callao) (480p)
 https://servilive.com:3757/live/regiontvlive.m3u8
-
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (540p)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
-
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total (Yurimaguas) (480p)
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined",Sol Televisión
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Teleamazonas.pe" tvg-logo="https://i.imgur.com/yhv3XyU.png" group-title="Undefined",Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) (720p)
 https://live.obslivestream.com/telecolormux/index.m3u8
-
 #EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Ilo) (720p)
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
 #EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Mollendo) (240p)
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-
 #EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Moquegua) (360p)
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-
 #EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="General",Telesur (Tacna) (720p)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-
 #EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-
 #EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/expresion/images/logo.png" group-title="Undefined",Expresion Ilo Radio(720p)
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
-
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto (720p)
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="General",Top FM TV (Atalaya) (240p)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="General",Trivu (Lima) 
 https://servilive.com:3244/live/trivutvlive.m3u8
-
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV (Puerto Maldonado) (720p)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p)
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos (720p)
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima (720p)
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1935074754.m3u8
-
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png" group-title="General",Palmeras TV (720p)
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
-
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="General",TV EnLinea (Cuzco) (720p)
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-
 #EXTINF:-1 tvg-id="TVFacesPeru.pe" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Online (360p)
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w249757421.m3u8
-
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unifetv (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1679601004&e=1679601124&h=f16b1f6b81187b8536acaa4869edf8b7
-
 #EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UNITEL PERÚ (Lima) (720p)
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV (Yurimaguas) (720p)
 https://live.obslivestream.com/uraniotv/index.m3u8
-
 #EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="General",Vía Televisión (Tarapoto)
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="News",Visión Noticias Perú (VNP) (720p)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Music",Visión TV Musica (720p)
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="General",VisionSur (Arequipa)
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
-
 #EXTINF:-1 tvg-id="Canal33Ayacucho.pe" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="Undefined",Canal 33 Ayacucho (360p)
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV | PE
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive (720p)
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="General",MaticesTV (720p)
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
-
 #EXTINF:-1 tvg-id="1190" tvg-name="Master Television" tvg-logo="https://cdn.m3u.cl/logo/1190_Master_Television.png", Master Television | PE
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8?PlaylistM
-
 #EXTINF:-1 tvg-id="NovaTVStar.pe" tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="Undefined",Nova TV Star (360p)
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="News",Radio Uno Tacna (720p)
 https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
-
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional (RCR) (720p) 
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SomosCulturaTV.pa" tvg-logo="https://i.imgur.com/kWR3END.png" group-title="Culture",Somos Cultura TV (720p)
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p)
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYz6ykWsSPj81Mh5FHeLaE49MUuL7v3zCHn0Z-eG2iskn)/dm/3/x7gy059/d/live-2.m3u8
-
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w306583619.m3u8
-
 #EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p)
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://animax.lat/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Auto;Entertainment",Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?
-
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
 #EXTINF:-1 tvg-id="ANDES TV" tvg-logo="https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="Movies",Andes TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8
-
 #EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religious",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVSRetro.gt" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Classic",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña Conectate + (480p)
 https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
-
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-
 #EXTINF:-1 tvg-id="Wtv.pe" tvg-logo="https://i.imgur.com/V10iVeh.png" group-title="General",Wtv (720p)
 https://live.obslivestream.com/wtv/index.m3u8
-
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1081887482.m3u8
-
 #EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1846257259.m3u8
-
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1062652673.m3u8
-
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="Musica",Top Latino TV SD
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Musica",Tropical Moon Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Musica",Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Musica",Oasis RTV HD
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Musica",Turbo Mix Radio TV SD
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musica",Memorias TV SD
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w724414605.m3u8
-
 #EXTINF:-1 tvg-id="VINILOS TV" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",VINILOS TV TV HD
 https://live.obslivestream.com/controversiatv/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú SD
 https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/chunklist_w2137045211.m3u8
-
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (Cuzco) (360p)
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioElPueblo.pe" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="Music",Radio El Pueblo (480p)
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-
 #EXTINF:-1 tvg-id="cumo.pe" tvg-logo="https://cumo.pe/wp-content/uploads/2022/12/logo.png" group-title="Wester",CUMO TV
 https://live.obslivestream.com/cumo/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
